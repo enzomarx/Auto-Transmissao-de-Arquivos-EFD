@@ -23,9 +23,6 @@ Instruções detalhadas sobre como instalar e configurar o aplicativo.
 ## Uso
 Exemplos de como executar o aplicativo, incluindo comandos e parâmetros necessários.
 
-## Contribuição
-Diretrizes para contribuir com o projeto, incluindo padrões de codificação, processos de pull request e informações de contato.
-
 ## Licença
 Este projeto é licenciado sob a propriedade da **CONTROLLER'S ASSESSORIA E CONSULTORIA CONTABIL LTDA**. Todos os direitos são reservados.
 

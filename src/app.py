@@ -10,22 +10,20 @@ from PyQt5.QtWidgets import (
 from PyQt5.QtCore import Qt, QThread, pyqtSignal, QCoreApplication, QProcess
 from PyQt5.QtGui import QIcon, QFont
 
-# Define a variável arquivos_pulados
+# Def var
 arquivos_pulados = []
 
-# Função para verificar e instalar pacotes necessários
 def check_and_install(package):
     try:
         __import__(package)
     except ImportError:
         subprocess.check_call([sys.executable, '-m', 'pip', 'install', package])
 
-# Verificar e instalar pacotes necessários
 required_packages = ['pyautogui', 'pyperclip', 'PyQt5']
 for package in required_packages:
     check_and_install(package)
 
-# Função para inicializar o aplicativo EFD
+# init aplicativo EFD
 def inicio(multiplier):
     pyautogui.press('win')
     time.sleep(1 * multiplier)
