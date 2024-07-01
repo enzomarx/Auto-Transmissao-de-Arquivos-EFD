@@ -26,10 +26,6 @@ Exemplos de como executar o aplicativo, incluindo comandos e parâmetros necess�
 ## Licença
 Este projeto é licenciado sob a propriedade da **CONTROLLER'S ASSESSORIA E CONSULTORIA CONTABIL LTDA**. Todos os direitos são reservados.
 
-## Autores
-- **Enzo Marx Lopes Dos Santos**
-- **Carlos Torres Da Silva Júnior**
-
 ## Agradecimentos
 Gostaríamos de expressar nossa gratidão a todos aqueles que nos ofereceram o apoio indispensável durante a realização deste projeto:
 - **Ingrid**
